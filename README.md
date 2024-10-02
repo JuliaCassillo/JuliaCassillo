@@ -2,7 +2,7 @@
 
 ✨ Sou a Julia Cassillo e estou empolgada em me conectar com você! ✨
 
-- 👩‍💼 Atualmente, sou estagiária na área de Melhorias, focada em Planejamento de Material e Cadastro na empresa ABB.
+- 👩‍💼 Atualmente, sou estagiária focada na área de Melhoria em Cadastro e Planejamento 
 - 📊 Estou mergulhando no mundo de Python e Data Science, sempre buscando aprender e crescer nessa área.
 - 🤖 Sou formada em Engenharia de Controle e Automação pelo Instituto Federal de São Paulo, Campus Salto.
 - 💻 Tenho experiência com VBA, Power BI, Power Query e SharePoint, e estou sempre em busca de novos conhecimentos e desafios.
